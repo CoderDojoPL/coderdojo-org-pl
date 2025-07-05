@@ -16,22 +16,22 @@
   weight = 10
 
 [[main]]
-  name = "About"
+  name = "O nas"
   pageRef = "about"
   weight = 20
 
 [[main]]
-  name = "Volunteer"
+  name = "Wolontariat"
   pageRef = "volunteer"
   weight = 30
 
 [[main]]
-  name = "Legacy"
+  name = "Historia"
   pageRef = "legacy"
   weight = 40
 
 [[main]]
-  name = "Contact"
+  name = "Kontakt"
   pageRef = "contact"
   weight = 50
 
@@ -47,21 +47,21 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-  name = "About"
+  name = "O nas"
   pageRef = "about"
   weight = 10
 
 [[footer]]
-  name = "Volunteer"
+  name = "Wolontariat"
   pageRef = "volunteer"
   weight = 20
 
 [[footer]]
-  name = "Legacy"
+  name = "Historia"
   pageRef = "legacy"
   weight = 30
 
 [[footer]]
-  name = "Contact"
+  name = "Kontakt"
   pageRef = "contact"
   weight = 40

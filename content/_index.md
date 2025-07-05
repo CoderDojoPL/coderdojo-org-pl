@@ -1,61 +1,50 @@
 ---
-title: "CoderDojo Poland"
-description: "Promoting volunteering through coding education - preserving the legacy of CoderDojo Poland (2013-2020)"
+title: "Warto zostać wolontariuszem!"
+description: "Robisz coś dobrego – dla innych i dla siebie. Dołącz do ludzi, którzy chcą zmieniać świat technologią."
+date: 2025-07-05
 ---
 
-# Empowering Volunteers Through Coding Education
+# Warto zostać wolontariuszem!
 
-Welcome to CoderDojo Poland, where we celebrate the power of volunteering and the lasting impact of community-driven education.
+**Robisz coś dobrego. Dla innych – i dla siebie.**  
+Nie musisz być idealistą. Wystarczy, że chcesz zrobić coś, co ma sens.
 
-## Our Mission
-
-CoderDojo Poland preserves and showcases the legacy of one of Poland's most successful volunteer-led educational initiatives while inspiring the next generation of coding mentors and volunteers.
-
-### What We Do
-
-- **Promote volunteering** as a meaningful and empowering activity
-- **Preserve the legacy** of CoderDojo Poland (2013–2020)
-- **Provide resources** for potential mentors and volunteers
-- **Inspire communities** to create their own educational initiatives
-
-## A Legacy of Impact
-
-From 2013 to 2020, CoderDojo Poland brought together:
-- **500+ volunteers** who shared their knowledge and passion
-- **5,000+ young learners** who discovered the joy of coding
-- **50+ cities** across Poland that hosted regular sessions
-- **200+ events** that built lasting community connections
-
-## Why Volunteer?
-
-Volunteering in coding education offers unique benefits:
-
-### Personal Growth
-- Develop teaching and mentoring skills
-- Deepen your technical knowledge
-- Build confidence and leadership abilities
-- Learn alongside enthusiastic young minds
-
-### Community Impact
-- Bridge the digital divide in your community
-- Inspire the next generation of developers
-- Create lasting positive change
-- Build connections with like-minded individuals
-
-### Professional Development
-- Enhance your resume with meaningful experience
-- Develop valuable soft skills
-- Expand your professional network
-- Gain recognition in the tech community
-
-## Get Started Today
-
-Whether you're a seasoned developer, a student, or someone passionate about education and technology, there's a place for you in the volunteering community.
-
-[Learn about volunteering opportunities →](/volunteer)
-[Discover our legacy →](/legacy)
-[Contact us →](/contact)
+{{< button href="/volunteer/" target="_self" >}}
+Chcę pomóc
+{{< /button >}}
 
 ---
 
-*Join us in celebrating the power of volunteer-led education and discover how you can make a meaningful difference in your community.* 
+## Dlaczego warto być wolontariuszem?
+
+- **Satysfakcja i poczucie sensu** – pomaganie daje radość i energię.
+- **Rozwój umiejętności** – komunikacja, organizacja, mentoring.
+- **Networking** – poznajesz świetnych ludzi, lokalnie i zawodowo.
+- **Lepsze zdrowie psychiczne** – wolontariusze żyją dłużej i szczęśliwiej.
+- **CV i kariera** – doświadczenie wolontariackie to atut zawodowy.
+
+---
+
+## CoderDojo – przykład wolontariatu technologicznego
+
+Od 2013 roku Fundacja CoderDojo Polska pomagała dzieciom rozwijać się poprzez zabawę z technologią: tworzenie gier, roboty, programowanie muzyki, rakiety do Minecrafta.
+
+Ale tak naprawdę zmieniała życie dorosłych – mentorów-wolontariuszy, którzy odkrywali w tym sens, wspólnotę i energię.
+
+Dziś CoderDojo nie działa aktywnie – ale może znów działać.  
+Potrzebujemy tylko ludzi, którzy powiedzą: **„Spróbuję"**.
+
+{{< figure src="superdojo.jpg" alt="Zdjęcie z SuperDojo – święto społeczności" >}}
+
+---
+
+## Kontakt
+
+Masz pytania albo chcesz dołączyć?
+
+📧 [kamil@coderdojo.org.pl](mailto:kamil@coderdojo.org.pl)  
+📞 +48 790 818 212
+
+---
+
+*Fundacja CoderDojo Polska • KRS: 0000461036* 
