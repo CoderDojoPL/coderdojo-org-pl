@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "CoderDojo Poland"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png" # Add your logo when ready
+  description = "Promoting volunteering through coding education - preserving the legacy of CoderDojo Poland (2013-2020)"
+
+[params.author]
+  name = "CoderDojo Poland"
+  # email = "contact@coderdojo.org.pl" # Add contact email when ready
+  # image = "img/author.png" # Add author image when ready
+  headline = "Empowering volunteers through coding education"
+  bio = "Preserving and showcasing the legacy of CoderDojo Poland initiative (2013–2020) while promoting volunteering as a meaningful and empowering activity."
+  links = [
+    # { github = "https://github.com/coderdojo-org-pl" }, # Add your GitHub link when ready
+  ]
