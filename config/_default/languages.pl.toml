@@ -15,8 +15,10 @@ title = "Fundacja CoderDojo Polska"
   name = "Fundacja CoderDojo Polska"
   email = "dojo@coderdojo.org.pl"
   # image = "img/author.png" # Add author image when ready
-  headline = "Polska potrzbuje hakerów!"
+  headline = "Wolontariat, który się opłaca. Zostań Mentorem CoderDojo."
   bio = "Fundacja CoderDojo Polska • KRS: 0000461036"
   links = [
-    # { github = "https://github.com/coderdojo-org-pl" }, # Add your GitHub link when ready
+    { facebook = "https://www.facebook.com/CoderDojoPL/" },
+    { github = "https://github.com/CoderDojoPL" },
+    { twitter = "https://x.com/CoderDojoPL" }
   ]

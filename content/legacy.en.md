@@ -1,119 +1,64 @@
 ---
-title: "Our Legacy (2013-2020)"
+title: "The Legacy of CoderDojo Poland: Pioneers, Community, Revival"
 date: 2024-01-01
 draft: false
-description: "Celebrating the history and impact of CoderDojo Poland from 2013 to 2020."
+description: "Discover the story of CoderDojo Poland (2013–2020) — its impact, unique volunteer model, and why we’re fighting to preserve this legacy."
 ---
 
-# Our Legacy (2013-2020)
+# The Legacy of CoderDojo Poland (2013–2020)
 
-CoderDojo Poland was more than just a coding club—it was a movement that transformed how we think about technology education and community volunteering in Poland.
+CoderDojo is a global movement of free, volunteer-led community coding clubs for young people. Anyone could visit a Dojo to learn coding, web development, app and game design, or simply explore technology in an informal, creative, and social environment. In Poland, CoderDojo grew rapidly from 2013 onward, building a network of over 20 local clubs — from Zambrów to Warsaw and Wrocław. Our Dojos, organized in IT companies, libraries, and community centers, became spaces where kids learned Scratch, robotics, and 3D printing, while adults formed **strong professional connections**.
 
-## The Beginning (2013)
+## Origins and Once-Real Numbers
 
-In 2013, inspired by the global CoderDojo movement, a group of passionate volunteers brought the CoderDojo concept to Poland. What started as a small initiative in a few cities quickly grew into a nationwide network of coding clubs.
+* **Beginning:** The initiative started in **Zambrów** in 2013 as a direct response to the global, non-profit CoderDojo movement.  
+* **Community Size:** At its peak, the Foundation gathered **over 100 volunteer mentors** across **22 active Dojos** in Poland.  
+* **Weekly Reach:** Around **450 children and teens per week** learned programming, robotics, and 3D printing in a relaxed, non-commercial atmosphere.  
+* **Integration:** We organized national **SuperDojo** gatherings, attracting over 350 participants — kids, parents, and mentors alike.
 
-## By the Numbers
+### Key Achievements and Partnerships
 
-### Impact Achieved
-- **50+ cities** across Poland hosted CoderDojo sessions
-- **500+ volunteers** contributed their time and expertise
-- **5,000+ young people** learned to code through our programs
-- **200+ events** organized across the country
-- **7 years** of continuous operation
+Our work went far beyond running clubs. CoderDojo Poland became a **laboratory of social innovation in technology education**, linking grassroots volunteering with systemic and institutional impact.
 
-### What We Taught
-- **Web Development** - HTML, CSS, JavaScript
-- **Python Programming** - From basics to advanced projects
-- **Scratch** - Visual programming for younger learners
-- **Game Development** - Creating interactive games and animations
-- **Mobile Apps** - Introduction to app development
-- **Hardware Projects** - Arduino, Raspberry Pi, and electronics
+* **Strategic Partnership:** We were one of the key partners of **Samsung’s “Masters of Coding”** — at the time, Poland’s largest coding education initiative, reaching thousands of teachers and students. CoderDojo contributed the social component: mentoring and open, volunteer-based teaching methods.  
+* **Impact on the Education System:** Our methods and materials (lesson plans, mentor handbooks) informed the development of Poland’s new programming curriculum. We demonstrated that learning to code can be *informal, joyful, and community-driven* — not just another school subject.  
+* **EdTech Ecosystem Development:** We supported educational startups — from early concept consultations to product testing. Among our partners was the team behind **Photon**, an educational robot that became a symbol of Polish EdTech.  
+* **Global Recognition:** Our young participants (Ninjas) represented Poland at international **Coolest Projects Awards** events in Ireland, earning prizes and distinctions. Their success proved that local Dojos can nurture globally capable talent.  
+* **Social Capital and Local Empowerment:** Through **T-Mobile’s “Fajne Granty”** program, co-led with the Ministry of Digital Affairs, we supported **47 local digital education initiatives**. CoderDojo mentors became local tech leaders — organizing events, hackathons, and mini-conferences.  
+* **The Multiplication Effect:** Many volunteers went on to create their own initiatives, coding schools, and mentoring programs. The influence of CoderDojo can still be seen in companies, NGOs, and universities that continue this culture of openness and collaboration.
 
-## Key Achievements
+> The legacy of CoderDojo Poland isn’t just about numbers or awards — it’s about **changing how Poland learns technology**: from hierarchical to collaborative, from consumer to creator.
 
-### 2013-2015: Foundation Years
-- Established the first CoderDojo chapters in Warsaw, Krakow, and Gdansk
-- Developed Polish-language learning materials and resources
-- Built partnerships with local schools and libraries
-- Created a sustainable volunteer recruitment model
+## The Model We Promoted: Authentic Volunteering
 
-### 2016-2018: Growth and Expansion
-- Expanded to over 30 cities across Poland
-- Launched specialized workshops for different age groups
-- Developed mentor training programs
-- Created an online community platform for volunteers
+What made CoderDojo stand out was its **culture**. That’s why the Foundation is worth reviving — this model worked, developing not only children but adults too.
 
-### 2019-2020: Maturation and Transition
-- Reached peak participation with regular sessions in 50+ locations
-- Launched advanced programming tracks
-- Developed partnerships with universities and tech companies
-- Began transition planning as the initiative evolved
+* **Iron Rule: free, non-profit mission.** No one received payment for mentoring or running key Foundation activities. This built authentic trust and a true community of enthusiasts.  
+* **The Anti-School:** We rejected formality. No attendance lists, no grades, no rigid scripts. Participants worked at their own pace, guided by mentors and driven by **autonomy**.  
+* **Volunteer Benefits:** For mentors, involvement in CoderDojo was:  
+    * **An Investment in Themselves:** growth of soft skills (explaining complex ideas), networking.  
+    * **An Emotional Gain:** sense of purpose, burnout prevention, and deep satisfaction.  
 
-## Our Volunteers
+## Our People and Their Successes
 
-The heart of CoderDojo Poland was always its volunteers. These dedicated individuals came from all walks of life:
+### Achievements of Alumni (Our Ninjas)
 
-- **Professional developers** sharing their expertise
-- **University students** gaining teaching experience
-- **Career changers** exploring the tech industry
-- **Retired educators** continuing their passion for teaching
-- **Parents** supporting their children's learning journey
+The young people who grew up in CoderDojo continue their journeys in technology:  
+* Studying computer science at top universities.  
+* Interning at leading tech companies.  
+* Launching startups and contributing to open-source projects.  
 
-## Success Stories
+### Mentor Growth
 
-### Alumni Achievements
-Many of our former students have gone on to pursue careers in technology:
-- Computer science university programs
-- Internships at major tech companies
-- Entrepreneurial ventures and startups
-- Contributing to open-source projects
+Volunteers also gained significantly — applying their CoderDojo experience in their careers:  
+* Career advancement and leadership roles (thanks to mentoring and club management experience).  
+* Speaking opportunities at conferences and launching new educational initiatives.  
+* Building a **network of peers** connected by passion rather than corporate goals.  
 
-### Volunteer Growth
-Our volunteers also benefited tremendously:
-- Career advancement in tech roles
-- Leadership positions in their companies
-- Speaking opportunities at conferences
-- Launching their own educational initiatives
+## The Legacy Lives On: Returning to the Mission
 
-## The Model That Worked
+Although challenges such as COVID-19 brought the Foundation to the brink of closure in 2024, its legacy and model are too valuable to disappear.
 
-### Free and Accessible
-- No fees for participants
-- Weekend sessions to accommodate school schedules
-- Locations accessible by public transport
-- Materials provided free of charge
+**Our new mission** shifts the focus from *educating children* to *supporting volunteers*. We aim to preserve the **Win-Win Volunteering** model — one that develops skills, builds relationships, and gives meaning to those who give their time.
 
-### Community-Driven
-- Local volunteers led each chapter
-- Content adapted to local needs and interests
-- Strong support network between chapters
-- Emphasis on peer learning and collaboration
-
-### Practical Learning
-- Project-based approach to coding education
-- Real-world applications and examples
-- Showcase events for student projects
-- Mentorship beyond just coding skills
-
-## Why It Mattered
-
-CoderDojo Poland proved that:
-- **Volunteer-led education** can achieve professional-quality results
-- **Community engagement** creates lasting positive change
-- **Free access to technology education** helps bridge the digital divide
-- **Passion and dedication** can scale to national impact
-
-## The Legacy Continues
-
-While the formal CoderDojo Poland program concluded in 2020, its impact lives on:
-- **Former volunteers** continue teaching and mentoring
-- **Educational materials** remain available as open resources
-- **Community networks** persist and support new initiatives
-- **The model** inspires other volunteer-led educational programs
-
-## Learn from Our Experience
-
-The CoderDojo Poland story demonstrates the power of grassroots organizing and volunteer dedication. Our experience offers valuable lessons for anyone interested in creating similar educational initiatives in their community.
-
-[Ready to start your own volunteer journey? →](/volunteer) 
+**Want to join a movement proving that volunteering is the best investment in yourself?** [Find out how to become a Mentor →](/volunteer)

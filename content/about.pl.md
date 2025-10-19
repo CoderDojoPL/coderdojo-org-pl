@@ -5,39 +5,24 @@ draft: false
 description: "Poznaj inicjatywę CoderDojo Polska i naszą misję promowania wolontariatu poprzez edukację technologiczną."
 ---
 
-# O CoderDojo Polska
+# O Fundacji CoderDojo Polska
 
-Witaj w CoderDojo Polska – hołdzie dla jednej z najbardziej wpływowych inicjatyw edukacyjnych w polskiej historii technologii.
+Witaj w Fundacji CoderDojo Polska. Po chwilowym zawieszeniu działalności (2020-2024), Fundacja powraca z nową, kluczową misją: **uratowania wolontarystycznego ducha** społeczności IT i udowodnienia, że robienie dobra opłaca się Tobie.
 
 ## Nasza Misja
+- Promujemy wolontariat jako **narzędzie rozwoju osobistego** i zawodowego.
+- Zachowujemy **non-profitowy etos CoderDojo**, łączący pasję z kompetencją.
+- Ułatwiamy start mentorom, udostępniając prostą, **niskobiurokratyczną platformę** wsparcia.
+- Pokazujemy, że rozwój technologiczny i społeczny mogą iść w parze.
 
-CoderDojo Polska działa z jasnym celem:
+## Dlaczego warto?
+1. **Rozwój i CV:** komunikacja, praca zespołowa, mentoring.
+2. **Dobrostan psychiczny:** naukowo potwierdzone korzyści z działań prospołecznych.
+3. **Networking:** poznajesz innych ludzi z branży, którym zależy.
+4. **Wpływ:** pomagasz dzieciom odkrywać technologie – często na zawsze.
 
-- **Promować wolontariat** jako znaczącą i wzmacniającą aktywność
-- **Zachować i pokazać** dziedzictwo inicjatywy CoderDojo Polska (2013–2020)
-- **Zapewnić stronę startową** i proces onboardingu dla potencjalnych mentorów
-- **Inspirować następne pokolenie** edukatorów i wolontariuszy w dziedzinie programowania
-
-## Czym jest CoderDojo?
-
-CoderDojo to globalny ruch darmowych, prowadzonych przez wolontariuszy, społecznościowych klubów programowania dla młodych ludzi. Każdy w wieku od siedmiu do siedemnastu lat może odwiedzić Dojo, gdzie może nauczyć się kodowania, budowania stron internetowych, tworzenia aplikacji lub gier i odkrywania technologii w nieformalnym, kreatywnym i społecznym środowisku.
-
-## Nasze Dziedzictwo
-
-W latach 2013–2020 CoderDojo Polska zgromadziło setki wolontariuszy i tysiące młodych uczniów w całym kraju. Nasza inicjatywa pokazała siłę edukacji napędzanej przez społeczność i wpływ, jaki oddani wolontariusze mogą mieć na młode umysły.
-
-## Dlaczego Wolontariat Jest Ważny
-
-Wolontariat to coś więcej niż tylko oddawanie – to:
-
-- **Osobisty rozwój** i rozwijanie umiejętności
-- **Budowanie kontaktów** w społeczności technologicznej
-- **Wywieranie trwałego wpływu** na życie młodych ludzi
-- **Tworzenie pozytywnych zmian** w lokalnej społeczności
-
-## Dołącz do Nas
-
-Bez względu na to, czy jesteś doświadczonym deweloperem, studentem, czy po prostu kimś pasjonującym się edukacją i technologią, jest dla Ciebie miejsce w społeczności wolontariuszy.
+## Dołącz
+Bez względu na to, czy jesteś programistą, studentem, nauczycielem czy pasjonatem – znajdziesz miejsce w społeczności CoderDojo.
 
 [Dowiedz się więcej o wolontariacie →](/volunteer)
 

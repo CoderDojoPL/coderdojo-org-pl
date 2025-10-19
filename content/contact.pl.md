@@ -40,42 +40,14 @@ Zainteresowany poznaniem historii CoderDojo Polska, naszego wpływu lub modelu e
 ## Sposoby Kontaktu
 
 ### Email
-**Ogólne zapytania:** [kamil@coderdojo.org.pl](mailto:kamil@coderdojo.org.pl)  
-**Możliwości wolontariatu:** [kamil@coderdojo.org.pl](mailto:kamil@coderdojo.org.pl)  
-**Prośby o partnerstwo:** [dojo@coderdojo.org.pl](mailto:dojo@coderdojo.org.pl)
+**Ogólne zapytania:** [dojo@coderdojo.org.pl](mailto:dojo@coderdojo.org.pl)
 
 ### Media Społecznościowe
 Pozostań w kontakcie z naszą społecznością i śledź aktualizacje o możliwościach wolontariatu i inicjatywach edukacyjnych.
 
-- **GitHub:** [github.com/coderdojo-org-pl](https://github.com/coderdojo-org-pl)
-
-### Czasy Odpowiedzi
-Staramy się odpowiadać na wszystkie zapytania w ciągu 3-5 dni roboczych. Dziękujemy za cierpliwość, ponieważ jesteśmy organizacją prowadzoną przez wolontariuszy.
-
-## Często Zadawane Pytania
-
-### Czy muszę być ekspertem programistą, aby zostać wolontariuszem?
-Wcale nie! Witamy wolontariuszy z wszystkimi poziomami doświadczenia technicznego. Najważniejszy jest Twój entuzjazm do pomagania innym w nauce i rozwoju.
-
-### Czy są możliwości wolontariatu dla osób nietechnicznych?
-Tak! Potrzebujemy pomocy w organizacji wydarzeń, kontaktach społecznościowych, tworzeniu treści i zadaniach administracyjnych. Każda umiejętność jest cenna.
-
-### Jak duże jest oczekiwane zaangażowanie czasowe?
-Zaangażowanie wolontariuszy jest elastyczne i może wahać się od kilku godzin miesięcznie do bardziej regularnego tygodniowego zaangażowania, w zależności od Twojej dostępności i zainteresowań.
-
-### Czy to tylko dla osób w Polsce?
-Choć nasze dziedzictwo jest zakorzenione w Polsce, witamy kontakty od wolontariuszy i organizacji na całym świecie, które podzielają naszą misję promowania edukacji prowadzonej przez wolontariuszy.
-
-### Czy studenci i młodzi profesjonaliści mogą się zaangażować?
-Oczywiście! Wielu z naszych najbardziej oddanych wolontariuszy to studenci i osoby na początku kariery, które wnoszą świeże perspektywy i energię do naszych inicjatyw.
-
-## Nasze Zobowiązanie Wobec Ciebie
-
-Kiedy się z nami skontaktujesz, możesz oczekiwać:
-- **Szacunkowej komunikacji**, która ceni Twój czas i zainteresowania
-- **Jasnych informacji** o możliwościach wolontariatu i oczekiwaniach
-- **Ciągłego wsparcia** w miarę rozwijania umiejętności i przyczyniania się do naszej misji
-- **Przyjaznej społeczności** osób o podobnych poglądach
+* **Facebook:** [@CoderDojoPL](https://www.facebook.com/CoderDojoPL/)
+* **X (dawniej Twitter):** [@CoderDojoPL](https://x.com/CoderDojoPL)
+* **GitHub:** [CoderDojoPL](https://github.com/CoderDojoPL)
 
 ## Rozpocznij Swoją Podróż
 
@@ -83,8 +55,4 @@ Pierwszy krok jest zawsze najtrudniejszy, ale także najbardziej satysfakcjonuj�
 
 [Dowiedz się więcej o wolontariacie →](/volunteer)  
 [Poznaj nasze dziedzictwo →](/legacy)
-
----
-
-*CoderDojo Polska zobowiązuje się do tworzenia włączającego i przyjaznego środowiska dla wszystkich wolontariuszy i uczestników, niezależnie od pochodzenia, poziomu doświadczenia czy tożsamości.*
 

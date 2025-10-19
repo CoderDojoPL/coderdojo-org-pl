@@ -1,76 +1,41 @@
 ---
-title: "Become a Volunteer"
-date: 2024-01-01
+title: "Volunteering"
+date: 2025-01-01
 draft: false
-description: "Join our community of volunteers and make a meaningful impact through coding education."
+description: "Join our volunteer community and make a real impact through coding education."
 ---
 
-# Become a Volunteer
+# Start Gaining: Become a CoderDojo Mentor
 
-Volunteering in coding education is one of the most rewarding ways to give back to your community while developing your own skills and network.
+Volunteering at CoderDojo is an **investment in yourself.** It energizes you, builds your skills, gives you a sense of purpose — and along the way, you inspire future innovators. Think of it as **ALT+F4 for burnout.**
 
-## Why Volunteer?
+## Why Become a Volunteer?
 
 ### Personal Growth
-- **Develop teaching skills** that benefit your professional career
-- **Deepen your technical knowledge** by explaining concepts to others
-- **Build confidence** in public speaking and mentoring
-- **Learn new technologies** alongside enthusiastic young learners
+- **Develop leadership skills:** Learn how to explain complex ideas — a perfect foundation for managing teams or clients.  
+- **"Learn again":** Refresh your basics in Python or Scratch, or discover Raspberry Pi alongside the kids.  
+- **Confidence and communication:** Practice public speaking in a relaxed, friendly environment — a great way to start.  
+- **Authentic networking:** Meet people driven by passion, **not KPIs.** Build a network of professionals who care.  
+- **Gain valuable experience** in leadership and project management.  
+- **Step toward leadership:** Gain *practical* mentoring and organizational experience that makes your CV stand out.  
+- **Satisfaction and well-being:** Reconnect with purpose, reduce stress, and counter burnout through meaningful action.  
 
-### Community Impact
-- **Inspire the next generation** of developers and tech innovators
-- **Bridge the digital divide** by providing free, accessible education
-- **Create lasting relationships** with fellow volunteers and mentors
-- **Contribute to a more diverse and inclusive tech community**
+### Community Impact (the side effect)
+- **Inspire the next generation** of developers and tech innovators.  
+- **Equalize opportunities:** Provide free, inclusive education that can change a child’s life trajectory.  
+- **Build lasting relationships** with other mentors and volunteers.  
+- **Contribute to a more diverse and inclusive tech community.**
 
-### Professional Benefits
-- **Expand your network** within the tech community
-- **Gain valuable experience** in leadership and project management
-- **Enhance your resume** with meaningful volunteer experience
-- **Develop soft skills** highly valued by employers
-
-## What We Look For
+## What We’re Looking For
 
 ### Essential Qualities
-- **Passion for education** and helping others learn
-- **Patience and empathy** when working with young learners
-- **Basic programming knowledge** (any language or level)
-- **Enthusiasm** for sharing knowledge and skills
+- **Curiosity and willingness to experiment!** You don’t need to know every programming language. If you can use Google and enjoy finding solutions together with kids — you’re ready.  
+- A good attitude and the ability to simply **“Be Cool!”** (our only rule).  
 
 ### Nice to Have
-- Experience with web development, Python, Scratch, or other beginner-friendly technologies
-- Previous teaching or mentoring experience
-- Multilingual capabilities (Polish and English)
-- Event organization or community management experience
+- Some background in IT or engineering (even as a junior).  
+- **A few free hours:** You can volunteer just a few weekends per year — there’s no strict, long-term commitment required.  
 
-## Get Started
+## How to Start
 
-Ready to make a difference? Here's how you can begin your volunteering journey:
-
-### 1. Connect with Us
-Reach out to learn more about current opportunities and how you can contribute.
-
-### 2. Find Your Niche
-Whether you're interested in:
-- **Teaching programming basics** to beginners
-- **Leading workshops** on specific technologies
-- **Mentoring individual students** on projects
-- **Organizing events** and community activities
-- **Creating educational content** and resources
-
-### 3. Join the Community
-Become part of a supportive network of like-minded volunteers who share your passion for education and technology.
-
-## Success Stories
-
-*"Volunteering with CoderDojo Poland changed my perspective on teaching and learning. The enthusiasm of the young participants was infectious, and I found myself learning as much as I was teaching."*
-
-*"The skills I developed as a volunteer mentor directly contributed to my promotion at work. Teaching others forced me to truly understand complex concepts."*
-
-*"Some of the students I mentored years ago are now pursuing computer science degrees. Knowing I played a small part in their journey is incredibly fulfilling."*
-
-## Ready to Get Started?
-
-Take the first step towards making a meaningful impact in your community.
-
-[Contact us to learn more →](/contact) 
+Ready to make a difference? Share your passion: [get in touch →](/contact)

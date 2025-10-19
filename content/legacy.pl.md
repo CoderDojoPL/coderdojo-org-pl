@@ -1,120 +1,64 @@
 ---
-title: "Nasze Dziedzictwo (2013-2020)"
+title: "Dziedzictwo CoderDojo Polska: Pionierzy, Społeczność, Reaktywacja"
 date: 2024-01-01
 draft: false
-description: "Świętujemy historię i wpływ CoderDojo Polska w latach 2013-2020."
+description: "Odkryj historię CoderDojo Polska (2013-2020) – skalę wpływu, unikalny model wolontariatu i powód, dla którego walczymy o ocalenie tego dziedzictwa."
 ---
 
-# Nasze Dziedzictwo (2013-2020)
+# Dziedzictwo CoderDojo Polska (2013–2020)
 
-CoderDojo Polska to było coś więcej niż klub programistyczny – to był ruch, który zmienił sposób, w jaki myślimy o edukacji technologicznej i wolontariacie społecznym w Polsce.
+CoderDojo to globalny ruch darmowych, prowadzonych przez wolontariuszy, społecznościowych klubów programowania dla młodych ludzi. Każdy mógł odwiedzić Dojo, gdzie mógł nauczyć się kodowania, budowania stron internetowych, tworzenia aplikacji lub gier i odkrywania technologii w nieformalnym, kreatywnym i społecznym środowisku. W Polsce ruch CoderDojo rozwinął się od 2013 roku, tworząc sieć ponad 20 lokalnych klubów – od Zambrowa po Warszawę i Wrocław. Nasze kluby, organizowane w firmach IT, bibliotekach i MOK-ach, były miejscem, gdzie dzieci uczyły się Scratcha, robotyki, druku 3D, a dorośli nawiązywali **silne, profesjonalne kontakty**.
 
-## Początek (2013)
+## Początki i Kiedyś-Prawdziwe liczby
 
-W 2013 roku, zainspirowana globalnym ruchem CoderDojo, grupa pasjonatów-wolontariuszy przyniosła koncepcję CoderDojo do Polski. To, co zaczęło się jako niewielka inicjatywa w kilku miastach, szybko rozrosło się w ogólnopolską sieć klubów programistycznych.
+* **Początek:** Nasza inicjatywa została zapoczątkowana w **Zambrowie** w 2013 roku, jako bezpośrednia odpowiedź na globalny, non-profitowy ruch CoderDojo.
+* **Wielkość Społeczności:** W szczytowym okresie Fundacja zrzeszała **ponad 100 mentorów**-wolontariuszy, którzy działali w **22 aktywnych klubach (Dojo)** w całej Polsce.
+* **Cotygodniowy Zasięg:** Około **450 dzieci i młodzieży tygodniowo** uczyło się programowania, robotyki i druku 3D w luźnej, niekomercyjnej atmosferze.
+* **Integracja:** Organizowaliśmy ogólnopolskie zjazdy **SuperDojo**, które gromadziły ponad 350 uczestników (dzieci, rodziców i mentorów).
 
-## Liczby
+### Kluczowe osiągnięcia i partnerstwa
 
-### Osiągnięty Wpływ
-- **Ponad 50 miast** w Polsce gościło sesje CoderDojo
-- **Ponad 500 wolontariuszy** poświęciło swój czas i ekspertyzę
-- **Ponad 5000 młodych ludzi** nauczyło się programowania poprzez nasze programy
-- **Ponad 200 wydarzeń** zorganizowanych w całym kraju
-- **7 lat** nieprzerwanej działalności
+Nasze działania wykraczały daleko poza pojedyncze kluby. CoderDojo Polska stało się **laboratorium społecznej innowacji w edukacji technologicznej**, łącząc oddolny wolontariat z wpływem systemowym i instytucjonalnym.
 
-### Czego Nauczaliśmy
-- **Web Development** - HTML, CSS, JavaScript
-- **Programowanie w Pythonie** - Od podstaw do zaawansowanych projektów
-- **Scratch** - Programowanie wizualne dla młodszych uczniów
-- **Tworzenie Gier** - Tworzenie interaktywnych gier i animacji
-- **Aplikacje Mobilne** - Wprowadzenie do tworzenia aplikacji
-- **Projekty Sprzętowe** - Arduino, Raspberry Pi i elektronika
+* **Partnerstwo Strategiczne:** Byliśmy jednym z głównych partnerów programu **Samsung Mistrzowie Kodowania** – największej w tamtym czasie inicjatywy edukacji programistycznej w Polsce, obejmującej tysiące nauczycieli i uczniów. CoderDojo wnosiło do projektu komponent społeczny: mentoring i otwarte metody pracy z dziećmi w duchu wolontariatu.
+* **Wpływ na System Edukacji:** Nasz model pracy i zasoby (scenariusze, podręczniki dla mentorów) były konsultowane przy tworzeniu nowej podstawy programowej nauki programowania w szkołach. Pokazaliśmy, że uczenie kodowania może być *nieformalnym, radosnym i wspólnotowym doświadczeniem*, a nie kolejnym szkolnym przedmiotem.
+* **Rozwój Ekosystemu EdTech:** Wspieraliśmy twórców i startupy edukacyjne – od wczesnych konsultacji koncepcyjnych po testowanie produktów. Współpracowaliśmy m.in. z zespołem robota edukacyjnego **Photon**, który stał się jednym z symboli polskiego EdTechu.
+* **Globalne Sukcesy:** Nasi młodzi uczestnicy (Ninja) z sukcesami reprezentowali Polskę na międzynarodowych konkursach **Coolest Projects Awards** w Irlandii, zdobywając nagrody i wyróżnienia. Te osiągnięcia pokazały, że lokalne Dojo mogą rozwijać talenty o globalnym potencjale.
+* **Kapitał Społeczny i Wsparcie Lokalne:** Dzięki programowi **Fajne Granty T-Mobile**, realizowanemu z udziałem Ministerstwa Cyfryzacji, wsparliśmy **47 lokalnych inicjatyw** edukacji cyfrowej. Mentorzy CoderDojo stali się liderami lokalnych społeczności technologicznych – organizowali wydarzenia, hackathony i mini-konferencje.
+* **Efekt Multiplikacji:** Wielu naszych wolontariuszy założyło własne inicjatywy, szkoły kodowania i programy mentoringowe. Wpływ CoderDojo można dziś odnaleźć w strukturach firm, NGO-sów i uczelni, które kontynuują tę kulturę otwartości i współpracy.
 
-## Kluczowe Osiągnięcia
+> Dziedzictwo CoderDojo Polska to nie tylko liczby i nagrody, lecz **zmiana kultury uczenia się technologii w Polsce** – z hierarchicznej na partnerską, z konsumpcyjnej na twórczą.
 
-### 2013-2015: Lata Fundamentów
-- Założenie pierwszych oddziałów CoderDojo w Warszawie, Krakowie i Gdańsku
-- Opracowanie materiałów edukacyjnych i zasobów w języku polskim
-- Budowanie partnerstw z lokalnymi szkołami i bibliotekami
-- Stworzenie zrównoważonego modelu rekrutacji wolontariuszy
+## Model, który promowaliśmy: Autentyczny Wolontariat
 
-### 2016-2018: Wzrost i Ekspansja
-- Ekspansja do ponad 30 miast w Polsce
-- Uruchomienie specjalistycznych warsztatów dla różnych grup wiekowych
-- Opracowanie programów szkoleniowych dla mentorów
-- Stworzenie internetowej platformy społecznościowej dla wolontariuszy
+Tym, co wyróżniało CoderDojo, była jego **kultura**. To dlatego Fundacja jest warta reaktywacji – ten model zadziałał, rozwijając nie tylko dzieci, ale i dorosłych.
 
-### 2019-2020: Dojrzałość i Transformacja
-- Osiągnięcie szczytowej liczby uczestników z regularnymi sesjami w ponad 50 lokalizacjach
-- Uruchomienie zaawansowanych ścieżek programistycznych
-- Rozwinięcie partnerstw z uniwersytetami i firmami technologicznymi
-- Rozpoczęcie planowania transformacji, gdy inicjatywa ewoluowała
+* **Żelazna Zasada: bezpłatna, non-profitowa misja.** Za mentoring i kluczową działalność Fundacji nikt nie brał wynagrodzenia. To budowało autentyczne zaufanie i wspólnotę pasjonatów.
+* **Anty-Szkoła:** Odrzuciliśmy formalności. Nie było list obecności, ocen ani sztywnych scenariuszy. Uczestnicy pracowali w swoim tempie, z pomocą mentorów, zgodnie z zasadą **autonomii**.
+* **Korzyści dla Wolontariuszy:** Udział w FCDP był dla mentorów:
+    * **Inwestycją w Siebie:** Rozwój kompetencji miękkich (tłumaczenie złożonych koncepcji), networking.
+    * **Zyskiem Emocjonalnym:** Poczucie sensu, walka z wypaleniem, satysfakcja.
 
-## Nasi Wolontariusze
+## Nasi Ludzie i Ich Sukcesy
 
-Sercem CoderDojo Polska zawsze byli jego wolontariusze. Ci oddani ludzie pochodzili z różnych środowisk:
+### Osiągnięcia Absolwentów (Nasi Ninja)
 
-- **Profesjonalni deweloperzy** dzielący się swoją ekspertyzą
-- **Studenci uniwersytetów** zdobywający doświadczenie w nauczaniu
-- **Osoby zmieniające karierę** eksplorujące branżę technologiczną
-- **Emerytowani nauczyciele** kontynuujący swoją pasję do nauczania
-- **Rodzice** wspierający podróż edukacyjną swoich dzieci
+Młodzi ludzie, którzy wyrośli z CoderDojo, kontynuują swoje podróże technologiczne:
+* Studia informatyczne na najlepszych uniwersytetach.
+* Staże w wiodących firmach technologicznych.
+* Własne przedsięwzięcia (startupach) i aktywny wkład w projekty open-source.
 
-## Historie Sukcesu
+### Rozwój Mentorów
 
-### Osiągnięcia Absolwentów
-Wielu naszych byłych uczniów kontynuuje kariery w technologii:
-- Studia informatyczne na uniwersytetach
-- Staże w głównych firmach technologicznych
-- Przedsięwzięcia przedsiębiorcze i startupy
-- Wkład w projekty open-source
+Wolontariusze również znacząco zyskali – wykorzystując umiejętności z Dojo w swoich karierach:
+* Awanse zawodowe i zdobycie ról kierowniczych (dzięki doświadczeniu w mentoringu i zarządzaniu lokalnymi klubami).
+* Możliwości wystąpień na konferencjach i uruchamianie własnych inicjatyw edukacyjnych.
+* **Sieć kontaktów** z ludźmi z branży, których łączy wspólna pasja, a nie tylko cel korporacyjny.
 
-### Rozwój Wolontariuszy
-Nasi wolontariusze również znacząco zyskali:
-- Awanse zawodowe w rolach technicznych
-- Stanowiska kierownicze w swoich firmach
-- Możliwości wystąpień na konferencjach
-- Uruchamianie własnych inicjatyw edukacyjnych
+## Dziedzictwo Trwa: Powrót do Misji
 
-## Model, Który Zadziałał
+Chociaż wyzwania (jak COVID-19) doprowadziły Fundację do progu likwidacji w 2024 roku, jej dziedzictwo i model są zbyt cenne, by umarły.
 
-### Darmowy i Dostępny
-- Brak opłat dla uczestników
-- Sesje weekendowe dostosowane do harmonogramów szkolnych
-- Lokalizacje dostępne komunikacją miejską
-- Materiały udostępniane bezpłatnie
+**Nasza Nowa Misja** polega na przeniesieniu ciężaru z edukacji *dzieci* na wsparcie *wolontariuszy*. Walczymy o to, by model **wolontariatu Win-Win** – ten, który rozwijał kompetencje, budował relacje i dawał sens Tobie – przetrwał.
 
-### Napędzany przez Społeczność
-- Lokalni wolontariusze prowadzili każdy oddział
-- Treści dostosowane do lokalnych potrzeb i zainteresowań
-- Silna sieć wsparcia między oddziałami
-- Nacisk na uczenie się rówieśnicze i współpracę
-
-### Praktyczna Nauka
-- Podejście projektowe do edukacji programistycznej
-- Przykłady i aplikacje ze świata rzeczywistego
-- Wydarzenia pokazowe dla projektów uczniowskich
-- Mentoring wykraczający poza umiejętności kodowania
-
-## Dlaczego To Było Ważne
-
-CoderDojo Polska udowodniło, że:
-- **Edukacja prowadzona przez wolontariuszy** może osiągać profesjonalne wyniki
-- **Zaangażowanie społeczności** tworzy trwałe pozytywne zmiany
-- **Darmowy dostęp do edukacji technologicznej** pomaga zmniejszyć przepaść cyfrową
-- **Pasja i oddanie** mogą skalować się do wpływu ogólnokrajowego
-
-## Dziedzictwo Trwa
-
-Chociaż formalny program CoderDojo Polska zakończył się w 2020 roku, jego wpływ pozostaje:
-- **Byli wolontariusze** kontynuują nauczanie i mentoring
-- **Materiały edukacyjne** pozostają dostępne jako otwarte zasoby
-- **Sieci społecznościowe** przetrwały i wspierają nowe inicjatywy
-- **Model** inspiruje inne programy edukacyjne prowadzone przez wolontariuszy
-
-## Ucz Się z Naszego Doświadczenia
-
-Historia CoderDojo Polska pokazuje siłę organizowania oddolnego i oddania wolontariuszy. Nasze doświadczenie oferuje cenne lekcje dla każdego zainteresowanego tworzeniem podobnych inicjatyw edukacyjnych w swojej społeczności.
-
-[Gotowy rozpocząć swoją podróż wolontariacką? →](/volunteer)
-
+**Chcesz dołączyć do ruchu, który udowadnia, że wolontariat jest najlepszą inwestycją w siebie?** [Odkryj, jak możesz zostać Mentorem. →](/wolontariat)

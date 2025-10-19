@@ -1,77 +1,42 @@
 ---
-title: "Zostań Wolontariuszem"
+title: "Wolontariat"
 date: 2024-01-01
 draft: false
 description: "Dołącz do naszej społeczności wolontariuszy i wywieraj znaczący wpływ poprzez edukację programistyczną."
 ---
 
-# Zostań Wolontariuszem
+# Zacznij zyskiwać: zostań Mentorem CoderDojo
 
-Wolontariat w edukacji programistycznej to jeden z najbardziej satysfakcjonujących sposobów na oddanie czegoś swojej społeczności, rozwijając jednocześnie własne umiejętności i sieć kontaktów.
+Wolontariat w CoderDojo to **inwestycja w samego siebie.** Daje energię, rozwija kompetencje, buduje poczucie sensu, a przy okazji inspirujesz przyszłych innowatorów. To jest **ALT+F4 dla wypalenia zawodowego.**
 
 ## Dlaczego Warto Zostać Wolontariuszem?
 
 ### Osobisty Rozwój
-- **Rozwijaj umiejętności nauczania**, które wspierają Twoją karierę zawodową
-- **Pogłębiaj swoją wiedzę techniczną** wyjaśniając koncepcje innym
-- **Buduj pewność siebie** w wystąpieniach publicznych i mentorstwie
-- **Ucz się nowych technologii** razem z entuzjastycznymi młodymi uczniami
+- **Doskonalisz kompetencje liderskie:** Uczysz się tłumaczyć złożone koncepcje (idealne do zarządzania zespołem i klientem).
+- **"Uczysz się od nowa"**: Masz pretekst, by odświeżyć podstawy w Pythonie/Scratchu lub poznać Raspberry Pi z dziećmi.
+- **Pewność siebie i komunikacja**: Wystąpienia publiczne w luźnej atmosferze. Świetne na start!
+- **Autentyczny Networking**: Poznaj ludzi, którzy są tu z pasji – **nie dla KPI**. Budujesz sieć profesjonalistów-pasjonatów.
+- **Zdobywaj cenne doświadczenie** w przywództwie i zarządzaniu projektami
+- **Krok do Liderowania**: Zyskujesz cenne, *praktyczne* doświadczenie w mentoringu i organizacji projektów, które wyróżni Twoje CV.
+- **Satysfakcja i Dobrostan**: Dajesz sobie **poczucie sensu**, które często zanika w rutynie. Redukujesz stres i wypalenie.
 
-### Wpływ na Społeczność
+### Wpływ na Społeczność (efekt uboczny)
 - **Inspiruj następne pokolenie** deweloperów i innowatorów technologicznych
-- **Zmniejszaj przepaść cyfrową** zapewniając darmową, dostępną edukację
+- **Wyrównywanie Szans**: Zapewniasz darmową, włączającą (inkluzywną) edukację, która realnie zmienia start życiowy dzieci.
 - **Twórz trwałe relacje** z innymi wolontariuszami i mentorami
 - **Przyczyniaj się do bardziej różnorodnej i włączającej społeczności technologicznej**
-
-### Korzyści Zawodowe
-- **Rozszerzaj swoją sieć** w społeczności technologicznej
-- **Zdobywaj cenne doświadczenie** w przywództwie i zarządzaniu projektami
-- **Wzbogacaj swoje CV** znaczącym doświadczeniem wolontariackim
-- **Rozwijaj umiejętności miękkie** wysoko cenione przez pracodawców
 
 ## Czego Szukamy
 
 ### Niezbędne Cechy
-- **Pasja do edukacji** i pomagania innym w nauce
-- **Cierpliwość i empatia** w pracy z młodymi uczniami
-- **Podstawowa wiedza o programowaniu** (dowolny język lub poziom)
-- **Entuzjazm** do dzielenia się wiedzą i umiejętnościami
+- **Chęć do uczenia się i eksperymentowania!** Nie musisz znać każdego języka. Wystarczy, że wiesz, jak działa Google i jesteś gotów szukać rozwiązań razem z dziećmi.
+- Dobrą chęć do bycia "fajnym" (ang. Be Cool! to nasza jedyna zasada)
 
 ### Mile Widziane
-- Doświadczenie z web developmentem, Pythonem, Scratch lub innymi technologiami przyjaznymi dla początkujących
-- Wcześniejsze doświadczenie w nauczaniu lub mentorstwie
-- Znajomość wielu języków (polski i angielski)
-- Doświadczenie w organizacji wydarzeń lub zarządzaniu społecznością
+- Doświadczenie IT lub inżynieryjne (choćby jako Junior)
+- **Kilka godzin wolnego czasu**: Możesz poświęcić tylko kilka weekendów w roku. Nie wymagamy cotygodniowego, długoterminowego zobowiązania.
 
 ## Jak Zacząć
 
-Gotowy, aby coś zmienić? Oto jak możesz rozpocząć swoją podróż jako wolontariusz:
-
-### 1. Skontaktuj się z Nami
-Odezwij się, aby dowiedzieć się więcej o aktualnych możliwościach i jak możesz się przyczynić.
-
-### 2. Znajdź Swoją Niszę
-Niezależnie od tego, czy jesteś zainteresowany:
-- **Nauczaniem podstaw programowania** dla początkujących
-- **Prowadzeniem warsztatów** na temat konkretnych technologii
-- **Mentorowaniem indywidualnych uczniów** przy projektach
-- **Organizowaniem wydarzeń** i działań społecznościowych
-- **Tworzeniem treści edukacyjnych** i zasobów
-
-### 3. Dołącz do Społeczności
-Stań się częścią wspierającej sieci wolontariuszy o podobnych poglądach, którzy podzielają Twoją pasję do edukacji i technologii.
-
-## Historie Sukcesu
-
-*"Wolontariat w CoderDojo Polska zmienił moją perspektywę na nauczanie i uczenie się. Entuzjazm młodych uczestników był zaraźliwy, a ja sam uczyłem się tyle, ile nauczałem."*
-
-*"Umiejętności, które rozwinąłem jako wolontariusz-mentor, bezpośrednio przyczyniły się do mojego awansu w pracy. Nauczanie innych zmusiło mnie do prawdziwego zrozumienia złożonych koncepcji."*
-
-*"Niektórzy z uczniów, których mentorowałem lata temu, studiują teraz informatykę. Świadomość, że odegrałem małą rolę w ich podróży, jest niesamowicie satysfakcjonująca."*
-
-## Gotowy Zacząć?
-
-Zrób pierwszy krok w kierunku wywierania znaczącego wpływu w swojej społeczności.
-
-[Skontaktuj się z nami, aby dowiedzieć się więcej →](/contact)
+Gotowy, aby coś zmienić? Zgłoś swoją Pasję: [skontaktuj się z nami →](/contact)
 

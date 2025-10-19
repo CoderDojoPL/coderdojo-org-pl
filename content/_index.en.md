@@ -1,11 +1,11 @@
 ---
-title: "CoderDojo Poland Foundation"
+title: "Volunteering that pays off. Become a CoderDojo Mentor."
 description: "You're doing something good – for others and for yourself. Join people who want to change the world with technology."
 date: 2025-07-05
 ---
 
 {{< lead >}}
-CoderDojo is a community of people who want to share their passion for technology. We create clubs where children and youth learn programming, electronics, games, or robotics – completely free, in an atmosphere of fun and joy.
+CoderDojo is a community of people who want to share their passion for technology. We create clubs where children and youth learn programming, electronics, games, or robotics – completely free, in an atmosphere of fun and joy. No attendance lists, grades, or forced scenarios – just passion, autonomy, and the "Be Cool!" rule.
 {{< /lead >}}
 
 {{< alert icon="heart" cardColor="#f3e8ff" iconColor="#7c3aed" >}}
@@ -13,7 +13,7 @@ CoderDojo is a community of people who want to share their passion for technolog
 {{< /alert >}}
 
 {{< button href="/volunteer/" target="_self" >}}
-{{< icon "heart" >}} Join us as a volunteer
+{{< icon "heart" >}} Take action – Become a Mentor
 {{< /button >}}
 
 ## Why is it worth it?
@@ -23,7 +23,7 @@ CoderDojo is a community of people who want to share their passion for technolog
 {{< timelineItem icon="star" header="You do it for yourself" badge="Personal Growth" >}}
 <ul>
   <li>Develop technical and soft skills</li>
-  <li>Learn to communicate with children and youth</li>
+  <li>Perfect the skill of explaining complex topics (key at work!).</li>
   <li>Gain confidence and make new connections</li>
   <li>Discover the joy of creating and sharing knowledge</li>
 </ul>
@@ -33,6 +33,7 @@ CoderDojo is a community of people who want to share their passion for technolog
 <ul>
   <li>Regain energy and motivation</li>
   <li>Feel that you're doing something meaningful</li>
+  <li>Find a sense of purpose missing in the corporate world</li>
   <li>Meet people who think alike</li>
   <li>Have a real impact – locally and personally</li>
 </ul>
@@ -41,7 +42,7 @@ CoderDojo is a community of people who want to share their passion for technolog
 {{< timelineItem icon="graduation-cap" header="Children benefit along the way" badge="Social Impact" >}}
 <ul>
   <li>Discover the world of new technologies</li>
-  <li>Create their own projects: games, apps, robots</li>
+  <li>Create their own projects: Scratch games, robots, Minecraft mods</li>
   <li>Develop outside of school, at their own pace</li>
   <li>Gain support and inspiration from adults</li>
 </ul>

@@ -7,7 +7,7 @@ displayName = "English"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-description = "Robisz coś dobrego – dla innych i dla siebie. Dołącz do ludzi, którzy chcą zmieniać świat technologią."
+description = "Volunteering that pays off. Become a CoderDojo Mentor."
 logo = "3D_przezroczyste.png"
 
   [params.author]
@@ -15,4 +15,8 @@ logo = "3D_przezroczyste.png"
   email = "dojo@coderdojo.org.pl"
   headline = "Empowering volunteers through coding education"
   bio = "CoderDojo Poland Foundation"
-  links = [ ]
+  links = [
+    { facebook = "https://www.facebook.com/CoderDojoPL/" },
+    { github = "https://github.com/CoderDojoPL" },
+    { twitter = "https://x.com/CoderDojoPL" }
+  ]

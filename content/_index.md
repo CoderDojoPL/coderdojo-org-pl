@@ -1,11 +1,11 @@
 ---
-title: "Fundacja CoderDojo Polska"
+title: "Wolontariat, który się opłaca. Zostań Mentorem CoderDojo."
 description: "Robisz coś dobrego – dla innych i dla siebie. Dołącz do ludzi, którzy chcą zmieniać świat technologią."
 date: 2025-07-05
 ---
 
 {{< lead >}}
-CoderDojo to społeczność ludzi, którzy chcą podzielić się swoją pasją do technologii. Tworzymy kluby, w których dzieci i młodzież uczą się programowania, elektroniki, gier czy robotyki – zupełnie za darmo, w atmosferze luzu i radości.
+CoderDojo to społeczność ludzi, którzy chcą podzielić się swoją pasją do technologii. Tworzymy kluby, w których dzieci i młodzież uczą się programowania, elektroniki, gier czy robotyki – zupełnie za darmo, w atmosferze luzu i radości. Nie ma u nas listy obecności, ocen ani wymuszonych scenariuszy – tylko pasja, autonomia i reguła "Be Cool!".
 {{< /lead >}}
 
 {{< alert icon="heart" cardColor="#f3e8ff" iconColor="#7c3aed" >}}
@@ -13,7 +13,7 @@ CoderDojo to społeczność ludzi, którzy chcą podzielić się swoją pasją d
 {{< /alert >}}
 
 {{< button href="/wolontariat/" target="_self" >}}
-{{< icon "heart" >}} Dołącz do nas jako wolontariusz
+{{< icon "heart" >}} Zacznij działać – Zostań Mentorem
 {{< /button >}}
 
 ## Dlaczego warto?
@@ -23,7 +23,7 @@ CoderDojo to społeczność ludzi, którzy chcą podzielić się swoją pasją d
 {{< timelineItem icon="star" header="Robisz to dla siebie" badge="Rozwój osobisty" >}}
 <ul>
   <li>Rozwijasz umiejętności techniczne i miękkie</li>
-  <li>Uczysz się komunikować z dziećmi i młodzieżą</li>
+  <li>Doskonalisz umiejętność tłumaczenia skomplikowanych zagadnień (kluczowe w pracy!).</li>
   <li>Zyskujesz pewność siebie i nowe kontakty</li>
   <li>Odkrywasz radość tworzenia i dzielenia się wiedzą</li>
 </ul>
@@ -33,6 +33,7 @@ CoderDojo to społeczność ludzi, którzy chcą podzielić się swoją pasją d
 <ul>
   <li>Odzyskujesz energię i motywację</li>
   <li>Czujesz, że robisz coś, co ma sens</li>
+  <li>Odnajdujesz poczucie sensu, którego brakuje w korporacji</li>
   <li>Poznajesz ludzi, którzy myślą podobnie</li>
   <li>Masz realny wpływ – lokalnie i osobiście</li>
 </ul>
@@ -41,7 +42,7 @@ CoderDojo to społeczność ludzi, którzy chcą podzielić się swoją pasją d
 {{< timelineItem icon="graduation-cap" header="Dzieci zyskują przy okazji" badge="Wpływ społeczny" >}}
 <ul>
   <li>Poznają świat nowych technologii</li>
-  <li>Tworzą własne projekty: gry, aplikacje, roboty</li>
+  <li>Tworzą własne projekty: gry w Scratchu, roboty, mody do Minecrafta</li>
   <li>Rozwijają się poza szkołą, we własnym tempie</li>
   <li>Zyskują wsparcie i inspirację od dorosłych</li>
 </ul>
