@@ -1,44 +1,45 @@
 [[main]]
-name = "Home"
+name = "Start"
 pageRef = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "O nas"
 pageRef = "about"
 weight = 2
 
 [[main]]
-name = "Volunteer"
+name = "Wolontariat"
 pageRef = "volunteer"
 weight = 3
 
 [[main]]
-name = "Legacy"
+name = "Historia"
 pageRef = "legacy"
 weight = 4
 
 [[main]]
-name = "Contact"
+name = "Kontakt"
 pageRef = "contact"
 weight = 5
 
 [[footer]]
-name = "About"
+name = "O nas"
 pageRef = "about"
 weight = 10
 
 [[footer]]
-name = "Volunteer"
+name = "Wolontariat"
 pageRef = "volunteer"
 weight = 20
 
 [[footer]]
-name = "Legacy"
+name = "Historia"
 pageRef = "legacy"
 weight = 30
 
 [[footer]]
-name = "Contact"
+name = "Kontakt"
 pageRef = "contact"
 weight = 40
+

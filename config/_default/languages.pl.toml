@@ -1,21 +1,21 @@
 languageCode = "pl"
 languageName = "Polski"
 weight = 1
-title = "Warto zostać wolontariuszem!"
+title = "Fundacja CoderDojo Polska"
 
 [params]
   displayName = "Polski"
   isoCode = "pl"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png" # Add your logo when ready
+  logo = "3D_przezroczyste.png"
   description = "Robisz coś dobrego – dla innych i dla siebie. Dołącz do ludzi, którzy chcą zmieniać świat technologią."
 
 [params.author]
   name = "Fundacja CoderDojo Polska"
-  email = "kamil@coderdojo.org.pl"
+  email = "dojo@coderdojo.org.pl"
   # image = "img/author.png" # Add author image when ready
-  headline = "Empowering volunteers through coding education"
+  headline = "Polska potrzbuje hakerów!"
   bio = "Fundacja CoderDojo Polska • KRS: 0000461036"
   links = [
     # { github = "https://github.com/coderdojo-org-pl" }, # Add your GitHub link when ready

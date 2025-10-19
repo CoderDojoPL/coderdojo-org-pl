@@ -1,50 +1,94 @@
 ---
-title: "Warto zostać wolontariuszem!"
+title: "Fundacja CoderDojo Polska"
 description: "Robisz coś dobrego – dla innych i dla siebie. Dołącz do ludzi, którzy chcą zmieniać świat technologią."
 date: 2025-07-05
 ---
 
-# Warto zostać wolontariuszem!
+{{< lead >}}
+CoderDojo to społeczność ludzi, którzy chcą podzielić się swoją pasją do technologii. Tworzymy kluby, w których dzieci i młodzież uczą się programowania, elektroniki, gier czy robotyki – zupełnie za darmo, w atmosferze luzu i radości.
+{{< /lead >}}
 
-**Robisz coś dobrego. Dla innych – i dla siebie.**  
-Nie musisz być idealistą. Wystarczy, że chcesz zrobić coś, co ma sens.
+{{< alert icon="heart" cardColor="#f3e8ff" iconColor="#7c3aed" >}}
+**Robimy to także dla siebie** – bo wolontariat rozwija, daje poczucie sensu i buduje relacje. W CoderDojo nie musisz być ekspertem ani nauczycielem. Wystarczy, że chcesz się zaangażować.
+{{< /alert >}}
 
-{{< button href="/volunteer/" target="_self" >}}
-Chcę pomóc
+{{< button href="/wolontariat/" target="_self" >}}
+{{< icon "heart" >}} Dołącz do nas jako wolontariusz
 {{< /button >}}
 
----
+## Dlaczego warto?
 
-## Dlaczego warto być wolontariuszem?
+{{< timeline >}}
 
-- **Satysfakcja i poczucie sensu** – pomaganie daje radość i energię.
-- **Rozwój umiejętności** – komunikacja, organizacja, mentoring.
-- **Networking** – poznajesz świetnych ludzi, lokalnie i zawodowo.
-- **Lepsze zdrowie psychiczne** – wolontariusze żyją dłużej i szczęśliwiej.
-- **CV i kariera** – doświadczenie wolontariackie to atut zawodowy.
+{{< timelineItem icon="star" header="Robisz to dla siebie" badge="Rozwój osobisty" >}}
+<ul>
+  <li>Rozwijasz umiejętności techniczne i miękkie</li>
+  <li>Uczysz się komunikować z dziećmi i młodzieżą</li>
+  <li>Zyskujesz pewność siebie i nowe kontakty</li>
+  <li>Odkrywasz radość tworzenia i dzielenia się wiedzą</li>
+</ul>
+{{< /timelineItem >}}
 
----
+{{< timelineItem icon="heart" header="Daje Ci to satysfakcję" badge="Satysfakcja" >}}
+<ul>
+  <li>Odzyskujesz energię i motywację</li>
+  <li>Czujesz, że robisz coś, co ma sens</li>
+  <li>Poznajesz ludzi, którzy myślą podobnie</li>
+  <li>Masz realny wpływ – lokalnie i osobiście</li>
+</ul>
+{{< /timelineItem >}}
 
-## CoderDojo – przykład wolontariatu technologicznego
+{{< timelineItem icon="graduation-cap" header="Dzieci zyskują przy okazji" badge="Wpływ społeczny" >}}
+<ul>
+  <li>Poznają świat nowych technologii</li>
+  <li>Tworzą własne projekty: gry, aplikacje, roboty</li>
+  <li>Rozwijają się poza szkołą, we własnym tempie</li>
+  <li>Zyskują wsparcie i inspirację od dorosłych</li>
+</ul>
+{{< /timelineItem >}}
 
-Od 2013 roku Fundacja CoderDojo Polska pomagała dzieciom rozwijać się poprzez zabawę z technologią: tworzenie gier, roboty, programowanie muzyki, rakiety do Minecrafta.
+{{< /timeline >}}
 
-Ale tak naprawdę zmieniała życie dorosłych – mentorów-wolontariuszy, którzy odkrywali w tym sens, wspólnotę i energię.
+## {{< icon "code" >}} Jak wygląda CoderDojo?
 
-Dziś CoderDojo nie działa aktywnie – ale może znów działać.  
-Potrzebujemy tylko ludzi, którzy powiedzą: **„Spróbuję"**.
+{{< keywordList >}}
+{{< keyword icon="graduation-cap" >}} Dla dzieci i młodzieży 7–17 lat {{< /keyword >}}
+{{< keyword icon="star" >}} Spotkania co 1–2 tygodnie {{< /keyword >}}
+{{< keyword icon="code" >}} Programowanie, robotyka, elektronika {{< /keyword >}}
+{{< keyword icon="heart" >}} Zajęcia przez wolontariuszy-mentorów {{< /keyword >}}
+{{< keyword icon="check" >}} Bez testów, ocen, list obecności {{< /keyword >}}
+{{< keyword icon="comment" >}} Każde Dojo jest inne i wyjątkowe {{< /keyword >}}
+{{< /keywordList >}}
 
-{{< figure src="superdojo.jpg" alt="Zdjęcie z SuperDojo – święto społeczności" >}}
+## {{< icon "fire" >}} Chcesz się zaangażować?
 
----
+{{< alert icon="circle-info" >}}
+CoderDojo potrzebuje ludzi takich jak Ty. Nie musisz być programistą ani nauczycielem. Wystarczy, że chcesz coś zrobić.
+{{< /alert >}}
 
-## Kontakt
+{{< button href="mailto:kamil@coderdojo.org.pl" target="_self" >}}
+{{< icon "envelope" >}} Skontaktuj się z nami
+{{< /button >}}
 
-Masz pytania albo chcesz dołączyć?
+## {{< icon "lightbulb" >}} Poznaj nas lepiej
 
-📧 [kamil@coderdojo.org.pl](mailto:kamil@coderdojo.org.pl)  
-📞 +48 790 818 212
+{{< gallery >}}
+<img src="img/niceandyellow/boy_1.png" class="grid-w50" alt="CoderDojo chłopiec" />
+<img src="img/niceandyellow/girl_1.png" class="grid-w50" alt="CoderDojo dziewczynka" />
+{{< /gallery >}}
 
----
+{{< list title="Dowiedz się więcej" limit=3 where="Section" value="content" >}}
 
-*Fundacja CoderDojo Polska • KRS: 0000461036* 
+## {{< icon "globe" >}} Chcesz otworzyć nowe Dojo?
+
+Masz pomysł na lokalny klub? Super! Damy Ci:
+
+1. **Gotowe scenariusze** i materiały
+1. **Wsparcie** innych mentorów  
+1. **Możliwość** działania we własnym stylu
+
+{{< button href="mailto:dojo@coderdojo.org.pl" target="_self" >}}
+{{< icon "star" >}} Załóż nowe Dojo
+{{< /button >}}
+
+## {{< icon "heart" >}} Fundacja CoderDojo Polska
