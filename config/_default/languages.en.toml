@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+title = "CoderDojo Poland Foundation"
+
+[params]
+displayName = "English"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Volunteering that pays off. Become a CoderDojo Mentor."
+logo = "3D_przezroczyste.png"
+
+  [params.author]
+  name = "CoderDojo Poland"
+  email = "dojo@coderdojo.org.pl"
+  headline = "Empowering volunteers through coding education"
+  bio = "CoderDojo Poland Foundation"
+  links = [
+    { facebook = "https://www.facebook.com/CoderDojoPL/" },
+    { github = "https://github.com/CoderDojoPL" },
+    { twitter = "https://x.com/CoderDojoPL" }
+  ]

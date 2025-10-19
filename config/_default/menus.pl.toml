@@ -1,0 +1,45 @@
+[[main]]
+name = "Start"
+pageRef = "/"
+weight = 1
+
+[[main]]
+name = "O nas"
+pageRef = "about"
+weight = 2
+
+[[main]]
+name = "Wolontariat"
+pageRef = "volunteer"
+weight = 3
+
+[[main]]
+name = "Historia"
+pageRef = "legacy"
+weight = 4
+
+[[main]]
+name = "Kontakt"
+pageRef = "contact"
+weight = 5
+
+[[footer]]
+name = "O nas"
+pageRef = "about"
+weight = 10
+
+[[footer]]
+name = "Wolontariat"
+pageRef = "volunteer"
+weight = 20
+
+[[footer]]
+name = "Historia"
+pageRef = "legacy"
+weight = 30
+
+[[footer]]
+name = "Kontakt"
+pageRef = "contact"
+weight = 40
+

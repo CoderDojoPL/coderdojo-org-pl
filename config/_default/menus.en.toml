@@ -1,0 +1,44 @@
+[[main]]
+name = "Home"
+pageRef = "/"
+weight = 1
+
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 2
+
+[[main]]
+name = "Volunteer"
+pageRef = "volunteer"
+weight = 3
+
+[[main]]
+name = "Legacy"
+pageRef = "legacy"
+weight = 4
+
+[[main]]
+name = "Contact"
+pageRef = "contact"
+weight = 5
+
+[[footer]]
+name = "About"
+pageRef = "about"
+weight = 10
+
+[[footer]]
+name = "Volunteer"
+pageRef = "volunteer"
+weight = 20
+
+[[footer]]
+name = "Legacy"
+pageRef = "legacy"
+weight = 30
+
+[[footer]]
+name = "Contact"
+pageRef = "contact"
+weight = 40

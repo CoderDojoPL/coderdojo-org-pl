@@ -1,0 +1,24 @@
+languageCode = "pl"
+languageName = "Polski"
+weight = 1
+title = "Fundacja CoderDojo Polska"
+
+[params]
+  displayName = "Polski"
+  isoCode = "pl"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "3D_przezroczyste.png"
+  description = "Robisz coś dobrego – dla innych i dla siebie. Dołącz do ludzi, którzy chcą zmieniać świat technologią."
+
+[params.author]
+  name = "Fundacja CoderDojo Polska"
+  email = "dojo@coderdojo.org.pl"
+  # image = "img/author.png" # Add author image when ready
+  headline = "Wolontariat, który się opłaca. Zostań Mentorem CoderDojo."
+  bio = "Fundacja CoderDojo Polska • KRS: 0000461036"
+  links = [
+    { facebook = "https://www.facebook.com/CoderDojoPL/" },
+    { github = "https://github.com/CoderDojoPL" },
+    { twitter = "https://x.com/CoderDojoPL" }
+  ]
