@@ -1,0 +1,7 @@
+:root {
+  --color-neutral-400: 180, 195, 245;
+}
+
+.fixed.inset-x-0.top-0 img {
+  opacity: 0.5 !important;
+}
