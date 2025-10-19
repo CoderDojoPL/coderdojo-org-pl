@@ -21,21 +21,16 @@ The site is focused on promoting the *idea* of volunteering, with CoderDojo as a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/coderdojo-org-pl.git
+   git clone --recurse-submodules https://github.com/CoderDojoPL/coderdojo-org-pl.git
    cd coderdojo-org-pl
    ```
 
-2. Initialize the theme submodule:
-   ```bash
-   git submodule update --init --recursive
-   ```
-
-3. Start the development server:
+2. Start the development server:
    ```bash
    hugo server --buildDrafts
    ```
 
-4. Open your browser and navigate to `http://localhost:1313`
+3. Open your browser and navigate to `http://localhost:1313`
 
 ### Building for Production
 
