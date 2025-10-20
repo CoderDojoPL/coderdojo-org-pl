@@ -20,5 +20,6 @@ title = "Fundacja CoderDojo Polska"
   links = [
     { facebook = "https://www.facebook.com/CoderDojoPL/" },
     { github = "https://github.com/CoderDojoPL" },
-    { twitter = "https://x.com/CoderDojoPL" }
+    { twitter = "https://x.com/CoderDojoPL" },
+    { linkedin = "https://www.linkedin.com/company/fundacja-coderdojo-polska/" }
   ]
