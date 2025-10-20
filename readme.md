@@ -1,5 +1,7 @@
 # CoderDojo Poland
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3d4a2b3c-8f39-4733-9d87-3dfa0d67b875/deploy-status)](https://app.netlify.com/projects/coderdojopolska/deploys)
+
 This repository contains the source code and content for the CoderDojo Poland website, built with [Hugo](https://gohugo.io/) and the [Blowfish](https://blowfish.page/) theme.
 
 ## Purpose
