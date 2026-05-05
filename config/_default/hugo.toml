@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://coderdojo.org.pl"
+baseURL = "https://www.coderdojo.org.pl"
 defaultContentLanguage = "pl"
 
 [languages.pl]
