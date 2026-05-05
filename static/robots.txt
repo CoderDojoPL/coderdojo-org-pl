@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.coderdojo.org.pl/sitemap.xml
+Disallow: /404.html
