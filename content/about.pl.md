@@ -24,5 +24,5 @@ Witaj w Fundacji CoderDojo Polska. Po chwilowym zawieszeniu działalności (2020
 ## Dołącz
 Bez względu na to, czy jesteś programistą, studentem, nauczycielem czy pasjonatem – znajdziesz miejsce w społeczności CoderDojo.
 
-[Dowiedz się więcej o wolontariacie →](/volunteer)
+[Dowiedz się więcej o wolontariacie →]({{< relref "volunteer" >}})
 

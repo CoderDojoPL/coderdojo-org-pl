@@ -1,5 +1,8 @@
-languageCode = "en"
-languageName = "English"
+# languageCode = "en"
+# languageName = "English"
+locale = "en"
+label = "English"
+weight = 2
 title = "CoderDojo Poland Foundation"
 
 [params]

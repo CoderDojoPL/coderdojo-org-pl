@@ -61,4 +61,4 @@ Although challenges such as COVID-19 brought the Foundation to the brink of clos
 
 **Our new mission** shifts the focus from *educating children* to *supporting volunteers*. We aim to preserve the **Win-Win Volunteering** model — one that develops skills, builds relationships, and gives meaning to those who give their time.
 
-**Want to join a movement proving that volunteering is the best investment in yourself?** [Find out how to become a Mentor →](/volunteer)
+**Want to join a movement proving that volunteering is the best investment in yourself?** [Find out how to become a Mentor →]({{< relref "volunteer" >}})

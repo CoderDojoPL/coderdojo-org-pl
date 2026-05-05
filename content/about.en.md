@@ -24,4 +24,4 @@ Welcome to the CoderDojo Poland Foundation. After a brief pause (2020–2024), w
 ## Join
 Whether you’re a developer, student, teacher, or an enthusiast — you’ll find your place in the CoderDojo community.
 
-[Learn more about volunteering →](/volunteer)
+[Learn more about volunteering →]({{< relref "volunteer" >}})

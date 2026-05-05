@@ -38,4 +38,4 @@ Volunteering at CoderDojo is an **investment in yourself.** It energizes you, bu
 
 ## How to Start
 
-Ready to make a difference? Share your passion: [get in touch →](/contact)
+Ready to make a difference? Share your passion: [get in touch →]({{< relref "contact" >}})

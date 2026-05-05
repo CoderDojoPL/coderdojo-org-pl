@@ -53,6 +53,6 @@ Pozostań w kontakcie z naszą społecznością i śledź aktualizacje o możliw
 
 Pierwszy krok jest zawsze najtrudniejszy, ale także najbardziej satysfakcjonujący. Niezależnie od tego, czy chcesz oddać coś swojej społeczności, rozwinąć nowe umiejętności, czy być częścią czegoś znaczącego, jesteśmy tu, aby pomóc Ci zacząć.
 
-[Dowiedz się więcej o wolontariacie →](/volunteer)  
-[Poznaj nasze dziedzictwo →](/legacy)
+[Dowiedz się więcej o wolontariacie →]({{< relref "volunteer" >}})  
+[Poznaj nasze dziedzictwo →]({{< relref "legacy" >}})
 

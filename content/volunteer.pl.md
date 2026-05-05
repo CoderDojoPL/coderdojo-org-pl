@@ -38,5 +38,5 @@ Wolontariat w CoderDojo to **inwestycja w samego siebie.** Daje energię, rozwij
 
 ## Jak Zacząć
 
-Gotowy, aby coś zmienić? Zgłoś swoją Pasję: [skontaktuj się z nami →](/contact)
+Gotowy, aby coś zmienić? Zgłoś swoją Pasję: [skontaktuj się z nami →]({{< relref "contact" >}})
 

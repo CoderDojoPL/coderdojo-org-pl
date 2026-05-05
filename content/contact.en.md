@@ -53,5 +53,5 @@ Stay connected with our community and follow updates on volunteering opportuniti
 
 The first step is always the hardest — but also the most rewarding. Whether you want to give back to your community, develop new skills, or be part of something meaningful, we’re here to help you get started.
 
-[Learn more about volunteering →](/volunteer)  
-[Explore our legacy →](/legacy)
+[Learn more about volunteering →]({{< relref "volunteer" >}})  
+[Explore our legacy →]({{< relref "legacy" >}})

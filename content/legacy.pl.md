@@ -61,4 +61,4 @@ Chociaż wyzwania (jak COVID-19) doprowadziły Fundację do progu likwidacji w 2
 
 **Nasza Nowa Misja** polega na przeniesieniu ciężaru z edukacji *dzieci* na wsparcie *wolontariuszy*. Walczymy o to, by model **wolontariatu Win-Win** – ten, który rozwijał kompetencje, budował relacje i dawał sens Tobie – przetrwał.
 
-**Chcesz dołączyć do ruchu, który udowadnia, że wolontariat jest najlepszą inwestycją w siebie?** [Odkryj, jak możesz zostać Mentorem. →](/wolontariat)
+**Chcesz dołączyć do ruchu, który udowadnia, że wolontariat jest najlepszą inwestycją w siebie?** [Odkryj, jak możesz zostać Mentorem. →]({{< relref "volunteer" >}})

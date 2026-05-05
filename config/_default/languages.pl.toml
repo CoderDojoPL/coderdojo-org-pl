@@ -1,5 +1,7 @@
-languageCode = "pl"
-languageName = "Polski"
+# languageCode = "pl"
+# languageName = "Polski"
+locale = "pl"
+label = "Polski"
 weight = 1
 title = "Fundacja CoderDojo Polska"
 

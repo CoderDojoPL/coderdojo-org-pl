@@ -5,6 +5,17 @@
 theme = "blowfish"
 baseURL = "https://coderdojo.org.pl"
 defaultContentLanguage = "pl"
+
+[languages.pl]
+  locale = "pl"
+  label = "Polski"
+  weight = 1
+
+[languages.en]
+  locale = "en"
+  label = "English"
+  weight = 2
+
 disableLanguages = [] #to allow translation work requiring shipping to production
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
