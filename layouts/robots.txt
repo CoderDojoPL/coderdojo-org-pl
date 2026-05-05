@@ -1,0 +1,5 @@
+User-agent: *
+{{- if not .Site.IsServer }}
+Sitemap: {{ "sitemap.xml" | absURL }}
+{{- end }}
+Disallow: /404.html
