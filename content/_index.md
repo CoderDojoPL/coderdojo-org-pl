@@ -12,7 +12,7 @@ CoderDojo to społeczność ludzi, którzy chcą podzielić się swoją pasją d
 **Robimy to także dla siebie** – bo wolontariat rozwija, daje poczucie sensu i buduje relacje. W CoderDojo nie musisz być ekspertem ani nauczycielem. Wystarczy, że chcesz się zaangażować.
 {{< /alert >}}
 
-{{< button href="volunteer" target="_self" >}}
+{{< button href="/volunteer/" target="_self" >}}
 {{< icon "heart" >}} Zacznij działać – Zostań Mentorem
 {{< /button >}}
 

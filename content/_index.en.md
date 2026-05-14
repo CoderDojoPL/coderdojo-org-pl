@@ -12,7 +12,7 @@ CoderDojo is a community of people who want to share their passion for technolog
 **We also do it for ourselves** – because volunteering develops us, gives us a sense of purpose, and builds relationships. At CoderDojo, you don't need to be an expert or a teacher. You just need to want to get involved.
 {{< /alert >}}
 
-{{< button href="volunteer" target="_self" >}}
+{{< button href="/en/volunteer/" target="_self" >}}
 {{< icon "heart" >}} Take action – Become a Mentor
 {{< /button >}}
 
