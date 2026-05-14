@@ -8,7 +8,7 @@ date: 2025-07-05
 CoderDojo is a community of people who want to share their passion for technology. We create clubs where children and youth learn programming, electronics, games, or robotics – completely free, in an atmosphere of fun and joy. No attendance lists, grades, or forced scenarios – just passion, autonomy, and the "Be Cool!" rule.
 {{< /lead >}}
 
-{{< alert icon="heart" cardColor="#f3e8ff" iconColor="#7c3aed" >}}
+{{< alert icon="heart" >}}
 **We also do it for ourselves** – because volunteering develops us, gives us a sense of purpose, and builds relationships. At CoderDojo, you don't need to be an expert or a teacher. You just need to want to get involved.
 {{< /alert >}}
 
