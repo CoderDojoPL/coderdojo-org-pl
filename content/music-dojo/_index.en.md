@@ -1,5 +1,5 @@
 ---
-title: "Music Dojo: We want more musical scrambled eggs"
+title: "Music Dojo"
 description: "In Poland, you are either a virtuoso or just a listener. We want to change that. Making music should be as common as making scrambled eggs."
 date: 2026-05-11
 showDate: false

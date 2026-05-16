@@ -1,5 +1,5 @@
 ---
-title: "Music Dojo: Chcemy więcej muzycznej jajecznicy"
+title: "Music Dojo"
 description: "W Polsce albo jesteś wirtuozem, albo tylko słuchaczem. My chcemy to zmienić. Robienie muzyki powinno być tak powszechne jak robienie jajecznicy."
 date: 2026-05-11
 showDate: false
