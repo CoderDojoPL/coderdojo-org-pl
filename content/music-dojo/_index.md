@@ -25,6 +25,10 @@ Nasze podejście opiera się na analizie tego, jak ludzie naprawdę uczą się m
 2.  **Mit „Chopina” i elitaryzm:** Aż **50% Polaków** uważa, że słuchanie muzyki poważnej świadczy o kulturze człowieka. To pokazuje, jak bardzo elitarne i onieśmielające jest postrzeganie muzyki w naszym społeczeństwie. Muzyka została „wypchnięta na scenę”, obudowana lękiem przed oceną i normatywnym przekonaniem, że liczy się tylko „wielka sztuka”.
 3.  **Samotność słuchacza:** Choć aż **98% Polaków** słucha muzyki dla przyjemności, robimy to w izolacji. Ponad połowa z nas (**52%**) przez cały rok ani razu nie wymieniła się z nikim muzyką (np. wysyłając link). Muzyka przestała być walutą społeczną.
 4.  **Brak muzykowania:** Dane są bezlitosne: **78% Polaków** ani razu w ciągu roku nie muzykowało indywidualnie, a **84%** nie robiło tego w grupie. Co gorsza, aktywność ta drastycznie spada z wiekiem – odsetek osób niemuzykujących grupowo skacze z 72% (18-24 lata) do aż 80% już dekadę później. Music Dojo chce zatrzymać ten regres i przywrócić radość wspólnego tworzenia.
+5.  **Muzyka jako biologiczna tarcza:** Dla przebodźcowanych młodych ludzi amatorskie muzykowanie to udowodnione naukowo narzędzie regulacji psychicznej. Działa na trzech frontach:
+    *   **W grupie (więzi i chemia mózgu):** Wspólne tworzenie muzyki aktywuje pierwotne obwody nagrody, uwalniając oksytocynę i dopaminę. Buduje to poczucie przynależności znacznie skuteczniej niż komunikatory internetowe, stając się remedium na narastającą izolację.
+    *   **Solo (odpoczynek od bycia ocenianym):** Muzykowanie dla samego siebie, w warunkach pozbawionych presji i publiczności, wywołuje spadek stężenia kortyzolu (hormonu stresu). To jedna ze sfer, w której młody człowiek może wejść w stan całkowitego skupienia (flow) i na chwilę wyciszyć „wewnętrznego krytyka”.
+    *   **Antidotum na rozproszenie:** Praca z rytmem i dźwiękami działa uziemiająco, pozwalając na bezpieczne wyrażanie trudnych emocji bez konieczności ubierania ich w słowa. Regularne muzykowanie trenuje też czujność wykonawczą – układ nerwowy uczy się ignorować nieistotne dystraktory, co jest kluczową kompetencją w świecie nieustannych powiadomień.
 
 ## Czym jest Music Dojo?
 
@@ -35,7 +39,7 @@ Odrzucamy akademicką teorię i selekcję. Skupiamy się na **participatory musi
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="Technologia jako skrót" badge="Narzędzia" >}}
-Używamy **Koala Sampler**, bo ma „niski próg wejścia i wysoki sufit”. Zmienia smartfon w instrument, który nie wymaga lat ćwiczeń gam, by wydobyć z niego coś pięknego.
+Używamy **Koala Sampler**, bo ma „niski próg wejścia i wysoki sufit”. Zmienia smartfon w instrument, który nie wymaga lat ćwiczeń gam, by wydobyć z niego coś pięknego. Opieramy się tu na założeniach **Therapeutic Beat Making (TBM)**. Praca z samplerem i pętlami rytmicznymi uziemia w chwili obecnej i wycisza układ nerwowy, a przewidywalna struktura bitów daje poczucie bezpieczeństwa. Cyfrowe środowisko wybacza błędy, eliminując lęk przed oceną i frustrację.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="star" header="Model CoderDojo" badge="Metoda" >}}
@@ -51,7 +55,7 @@ Zamiast nut, uczymy „składników” muzycznej jajecznicy (*Minimum Viable Mus
 {{< keywordList >}}
 {{< keyword icon="microphone" >}} **Sampling:** Łapanie dźwięków świata. {{< /keyword >}}
 {{< keyword icon="scissors" >}} **Chopping:** Twórcze cięcie i flipowanie. {{< /keyword >}}
-{{< keyword icon="wave-square" >}} **Groove:** Dlaczego „swing” jest ważniejszy niż metronom. {{< /keyword >}}
+{{< keyword icon="wave-square" >}} **Groove:** Kiedy trzymać się metronomu, a kiedy pozwolić muzyce „oddychać”. {{< /keyword >}}
 {{< keyword icon="layer-group" >}} **Struktura:** Jak z pętli zrobić opowieść. {{< /keyword >}}
 {{< /keywordList >}}
 
@@ -61,6 +65,11 @@ Zamiast nut, uczymy „składników” muzycznej jajecznicy (*Minimum Viable Mus
 *   **[Thomas Turino](https://press.uchicago.edu/ucp/books/book/chicago/M/bo5867463.html):** „Music as Social Life” – o sile muzyki partycypacyjnej.
 *   **[Lucy Green](https://www.routledge.com/How-Popular-Musicians-Learn-A-Way-Ahead-for-Music-Education/Green/p/book/9780754632269):** „How Popular Musicians Learn” – o nieformalnych metodach nauki.
 *   **[Steven Demorest](https://news.northwestern.edu/stories/2017/01/childrens-beliefs-about-talent-influence-music-participation/):** Badania nad wpływem przekonań o własnym „talencie” na kontynuację edukacji muzycznej.
+*   **[Today's Future Sound - TBM](https://traumaresearchfoundation.org/todays-future-sound/):** O Therapeutic Beat Making (TBM) dr. Elliota Ganna – wykorzystaniu samplowania do uziemienia, budowania poczucia bezpieczeństwa i regulacji emocji.
+*   **[Travis, Gann & Jenkins (2020)](https://journals.sagepub.com/doi/10.1177/1468017320911346):** „Using Therapeutic Beat Making and lyrics for empowerment” – naukowe opracowanie metody TBM i jej wpływu na wzmocnienie psychiczne uczestników.
+*   **[American Psychological Association (2026)](https://www.apa.org/monitor/2026/03/science-of-music):** „Science of Music” – o ewolucyjnych korzyściach muzykowania, wydzielaniu dopaminy i budowaniu naturalnej spójności społecznej.
+*   **[Schlotz i wsp. (2015)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.01242/full):** „Low-stress and high-stress singing have contrasting...” – badania dowodzące gwałtownego spadku kortyzolu podczas rekreacyjnego muzykowania bez ekspozycji na ocenę.
+*   **[PsyPost (2026)](https://www.psypost.org/from-childhood-to-adulthood-musicians-show-small-but-reliable-advantages-in-sustained-attention/):** O tym, jak regularna aktywność muzyczna przekłada się na lepszą koncentrację i zdolność filtrowania dystraktorów w przebodźcowanym środowisku.
 
 ## Nasze sekcje
 
