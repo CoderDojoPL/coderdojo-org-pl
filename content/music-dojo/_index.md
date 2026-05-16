@@ -21,12 +21,12 @@ W polskiej kulturze muzycznej panuje przekonanie: albo kończysz szkołę muzycz
 
 Nasze podejście opiera się na analizie tego, jak ludzie naprawdę uczą się muzyki (*informal music learning*) oraz na twardych danych o polskim społeczeństwie (Raport NCK 2024):
 
-1.  **Koniec z mitem „Talentu”:** Badania pokazują, że większość ludzi rezygnuje z muzyki nie z braku zdolności, ale dlatego, że uwierzyło w brak „talentu”. Tymczasem każdy ma słuch i poczucie rytmu – brakuje tylko narzędzi, które nie stawiają oporu na starcie.
+1.  **Koniec z mitem „Talentu”:** Badania pokazują, że większość ludzi rezygnuje z muzyki nie z braku zdolności, ale dlatego, że uwierzyło w brak „talentu”. Tymczasem większość ludzi może rozwinąć funkcjonalne umiejętności rytmiczne i muzyczne, jeśli zapewni im się wspierające narzędzia i środowisko.
 2.  **Mit „Chopina” i elitaryzm:** Aż **50% Polaków** uważa, że słuchanie muzyki poważnej świadczy o kulturze człowieka. To pokazuje, jak bardzo elitarne i onieśmielające jest postrzeganie muzyki w naszym społeczeństwie. Muzyka została „wypchnięta na scenę”, obudowana lękiem przed oceną i normatywnym przekonaniem, że liczy się tylko „wielka sztuka”.
-3.  **Samotność słuchacza:** Choć aż **98% Polaków** słucha muzyki dla przyjemności, robimy to w izolacji. Ponad połowa z nas (**52%**) przez cały rok ani razu nie wymieniła się z nikim muzyką (np. wysyłając link). Muzyka przestała być walutą społeczną.
+3.  **Samotność słuchacza:** Choć aż **98% Polaków** słucha muzyki dla przyjemności, robimy to w izolacji. Ponad połowa z nas (**52%**) przez cały rok ani razu nie wymieniła się z nikim muzyką (np. wysyłając link). Muzyka przestaje być wspólną walutą społeczną.
 4.  **Brak muzykowania:** Dane są bezlitosne: **78% Polaków** ani razu w ciągu roku nie muzykowało indywidualnie, a **84%** nie robiło tego w grupie. Co gorsza, aktywność ta drastycznie spada z wiekiem – odsetek osób niemuzykujących grupowo skacze z 72% (18-24 lata) do aż 80% już dekadę później. Music Dojo chce zatrzymać ten regres i przywrócić radość wspólnego tworzenia.
-5.  **Muzyka jako biologiczna tarcza:** Dla przebodźcowanych młodych ludzi amatorskie muzykowanie to udowodnione naukowo narzędzie regulacji psychicznej. Działa na trzech frontach:
-    *   **W grupie (więzi i chemia mózgu):** Wspólne tworzenie muzyki aktywuje pierwotne obwody nagrody, uwalniając oksytocynę i dopaminę. Buduje to poczucie przynależności znacznie skuteczniej niż komunikatory internetowe, stając się remedium na narastającą izolację.
+5.  **Muzyka jako biologiczna tarcza:** Dla przebodźcowanych młodych ludzi amatorskie muzykowanie to obiecujące narzędzie regulacji psychicznej. Działa na trzech frontach:
+    *   **W grupie (więzi i nastrój):** Badania sugerują, że wspólne tworzenie muzyki może wzmacniać więzi społeczne, poprawiać nastrój i redukować stres. Buduje to poczucie przynależności znacznie skuteczniej niż komunikatory internetowe, stając się remedium na narastającą izolację.
     *   **Solo (odpoczynek od bycia ocenianym):** Muzykowanie dla samego siebie, w warunkach pozbawionych presji i publiczności, wywołuje spadek stężenia kortyzolu (hormonu stresu). To jedna ze sfer, w której młody człowiek może wejść w stan całkowitego skupienia (flow) i na chwilę wyciszyć „wewnętrznego krytyka”.
     *   **Antidotum na rozproszenie:** Praca z rytmem i dźwiękami działa uziemiająco, pozwalając na bezpieczne wyrażanie trudnych emocji bez konieczności ubierania ich w słowa. Regularne muzykowanie trenuje też czujność wykonawczą – układ nerwowy uczy się ignorować nieistotne dystraktory, co jest kluczową kompetencją w świecie nieustannych powiadomień.
 
@@ -35,7 +35,7 @@ Nasze podejście opiera się na analizie tego, jak ludzie naprawdę uczą się m
 {{< timeline >}}
 
 {{< timelineItem icon="music" header="Muzykowanie bez wstydu" badge="Filozofia" >}}
-Odrzucamy akademicką teorię i selekcję. Skupiamy się na **participatory music-making** (Thomas Turino) – tu nie ma publiczności, są tylko uczestnicy. Liczy się wspólna zabawa, nie techniczna perfekcja.
+Odrzucamy sztuczne bariery i sztywne ścieżki akademickie. Skupiamy się na **participatory music-making** (Thomas Turino) – tu nie ma publiczności, są tylko uczestnicy. Liczy się wspólna zabawa, nie techniczna perfekcja.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="Technologia jako skrót" badge="Narzędzia" >}}

@@ -21,12 +21,12 @@ Polish music culture is dominated by a strict divide: you either graduate from a
 
 Our approach is based on an analysis of how people actually learn music (*informal music learning*) and hard data on Polish society (NCK 2024 Report):
 
-1.  **Ending the "Talent" Myth:** Research shows that most people quit music not due to a lack of ability, but because they believed they weren't "talented." Everyone has rhythm and an ear – they just lack tools that don't resist them from the start.
+1.  **Ending the "Talent" Myth:** Research shows that most people quit music not due to a lack of ability, but because they believed they weren't "talented." Most people can develop functional rhythmic and musical skills with supportive tools and environments.
 2.  **The "Chopin" Myth and Elitism:** As many as **50% of Poles** believe that listening to classical music is a sign of a person's culture. This shows how elitist and intimidating the perception of music is in our society. Music has been "pushed onto the stage," surrounded by fear of judgment and the normative belief that only "high art" matters.
-3.  **The Lonely Listener:** Although as many as **98% of Poles** listen to music for pleasure, we do it in isolation. More than half of us (**52%**) did not exchange music with anyone (e.g., by sending a link) even once throughout the year. Music has ceased to be a social currency.
+3.  **The Lonely Listener:** Although as many as **98% of Poles** listen to music for pleasure, we do it in isolation. More than half of us (**52%**) did not exchange music with anyone (e.g., by sending a link) even once throughout the year. Music is becoming less of a shared social currency.
 4.  **Lack of Music-Making:** The data is ruthless: **78% of Poles** did not make music individually even once during the year, and **84%** did not do so in a group. Worse still, this activity drops drastically with age – the percentage of people not making music in a group jumps from 72% (ages 18-24) to as much as 80% just a decade later. Music Dojo wants to stop this regression and bring back the joy of shared creation.
-5.  **Music as a biological shield:** For overstimulated young people, amateur music-making is a scientifically proven tool for psychological regulation. It works on three fronts:
-    *   **In a group (bonds and brain chemistry):** Creating music together activates primal reward circuits, releasing oxytocin and dopamine. This builds a sense of belonging much more effectively than instant messengers, becoming a remedy for growing isolation.
+5.  **Music as a biological shield:** For overstimulated young people, amateur music-making is a promising tool for psychological regulation. It works on three fronts:
+    *   **In a group (bonding and mood):** Research suggests that making music together can strengthen social bonding, improve mood, and reduce stress. This builds a sense of belonging much more effectively than instant messengers, becoming a remedy for growing isolation.
     *   **Solo (a break from being judged):** Making music for oneself, in conditions free from pressure and audience, causes a drop in cortisol (stress hormone) levels. This is one of the spheres where a young person can enter a state of complete focus (flow) and temporarily silence the "inner critic."
     *   **Antidote to distraction:** Working with rhythm and sounds is grounding, allowing for the safe expression of difficult emotions without having to put them into words. Regular music-making also trains executive vigilance – the nervous system learns to ignore irrelevant distractors, which is a key competence in a world of constant notifications.
 
@@ -35,7 +35,7 @@ Our approach is based on an analysis of how people actually learn music (*inform
 {{< timeline >}}
 
 {{< timelineItem icon="music" header="Music without shame" badge="Philosophy" >}}
-We reject academic theory and selection. We focus on **participatory music-making** (Thomas Turino) – there is no audience here, only participants. Shared joy matters more than technical perfection.
+We reject gatekeeping and rigid academic pathways. We focus on **participatory music-making** (Thomas Turino) – there is no audience here, only participants. Shared joy matters more than technical perfection.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="Technology as a shortcut" badge="Tools" >}}
