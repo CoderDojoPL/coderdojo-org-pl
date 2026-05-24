@@ -43,3 +43,9 @@ name = "Kontakt"
 pageRef = "contact"
 weight = 40
 
+[[footer]]
+name = "Standardy Ochrony Małoletnich"
+pageRef = "som"
+weight = 50
+
+
