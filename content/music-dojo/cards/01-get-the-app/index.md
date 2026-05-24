@@ -4,6 +4,8 @@ description: "Wstęp do Twojego najważniejszego narzędzia – potężnego samp
 date: 2026-05-11
 showDate: true
 tags: ["sushi", "Music Dojo"]
+series: ["MusicDojo"]
+series_order: 1
 ---
 
 {{< lead >}}
