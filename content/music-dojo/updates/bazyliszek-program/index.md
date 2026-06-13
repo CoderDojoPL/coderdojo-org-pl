@@ -18,15 +18,17 @@ Aby zapewnić jak najlepszą logistykę i najwyższą jakość zajęć, zdecydow
 ### O warsztatach
 Będą to w pełni praktyczne i interaktywne zajęcia. Pokażemy Wam, że do robienia muzyki nie potrzebujecie lat spędzonych w szkole muzycznej ani drogiego sprzętu – wystarczy smartfon w kieszeni! Wspólnie „usmażymy” naszą pierwszą muzyczną jajecznicę.
 
-> [!IMPORTANT]
-> **Limit miejsc:** Sala Nikifor mieści maksymalnie **30 osób**. Warsztaty cieszą się dużym zainteresowaniem, więc warto przyjść kilka minut wcześniej, aby zająć miejsce!
+{{< alert icon="triangle-exclamation" >}}
+**Ważne! Limit miejsc:** Sala Nikifor mieści maksymalnie **30 osób**. Warsztaty cieszą się dużym zainteresowaniem, więc warto przyjść kilka minut wcześniej, aby zająć miejsce!
+{{< /alert >}}
 
 ### Przygotowanie – co zabrać?
 1.  **Własny smartfon lub tablet** (z systemem Android lub iOS).
 2.  Zainstalowaną aplikację **Koala Sampler** (dostępną w sklepach App Store i Google Play).
 
-> [!TIP]
-> **Darmowe kody dla uczestników!**
-> Obecnie rozmawiamy z twórcą aplikacji Koala Sampler (Marek Bereza / elf audio) o możliwości przekazania darmowych kodów instalacyjnych dla uczestników naszych warsztatów. Trzymajcie kciuki! Jak tylko to ustalimy, damy znać.
+{{< alert icon="lightbulb" >}}
+**Wskazówka: Darmowe kody dla uczestników!**
+Obecnie rozmawiamy z twórcą aplikacji Koala Sampler (Marek Bereza / elf audio) o możliwości przekazania darmowych kodów instalacyjnych dla uczestników naszych warsztatów. Trzymajcie kciuki! Jak tylko to ustalimy, damy znać.
+{{< /alert >}}
 
 Do zobaczenia na miejscu! Zróbmy razem trochę hałasu!
