@@ -78,7 +78,7 @@ CoderDojo potrzebuje ludzi takich jak Ty. Nie musisz być programistą ani naucz
 <img src="img/niceandyellow/girl_1.png" class="grid-w50" alt="CoderDojo dziewczynka" />
 {{< /gallery >}}
 
-{{< list title="Dowiedz się więcej" limit=3 where="Section" value="content" >}}
+{{< list title="Najnowsze aktualności" limit=3 where="Type" value="updates" >}}
 
 ## {{< icon "globe" >}} Chcesz otworzyć nowe Dojo?
 
