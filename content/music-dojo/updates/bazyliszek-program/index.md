@@ -3,6 +3,7 @@ title: "Rozkład jazdy Music Dojo na Bazyliszku 2026!"
 description: "Znamy już dokładny termin naszych warsztatów! Zapraszamy w sobotę 11 lipca na wspólne tworzenie bitów."
 date: 2026-06-13
 showDate: true
+type: "updates"
 ---
 
 Mamy świetne wieści! Nasze zgłoszenie na warszawski festiwal fantastyki **Bazyliszek 2026** zostało oficjalnie zaakceptowane, a harmonogram jest już zapięty na ostatni guzik.

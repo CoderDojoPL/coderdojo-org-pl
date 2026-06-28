@@ -79,4 +79,4 @@ Instead of notes, we teach the "ingredients" of musical scrambled eggs (*Minimum
 *   [**Sushi Cards**](/en/music-dojo/cards/) – Bite-sized knowledge to get you started.
 *   [**Updates**](/en/music-dojo/updates/) – See how the community is growing.
 
-{{< list title="Latest Updates" limit=3 where="Section" value="updates" >}}
+{{< list title="Latest Updates" limit=3 where="Type" value="updates" >}}

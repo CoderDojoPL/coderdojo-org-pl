@@ -3,6 +3,7 @@ title: "Music Dojo Workshop Schedule at Bazyliszek 2026!"
 description: "The exact date and time of our workshop is locked in! Join us on Saturday, July 11th, to create your first beats."
 date: 2026-06-13
 showDate: true
+type: "updates"
 ---
 
 Great news! Our application for the Warsaw fantasy festival **Bazyliszek 2026** has been officially accepted, and the schedule is set.

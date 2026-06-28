@@ -76,4 +76,4 @@ Zamiast nut, uczymy „składników” muzycznej jajecznicy (*Minimum Viable Mus
 *   [**Karty Sushi**](/music-dojo/cards/) – Małe, samoobsługowe porcje wiedzy, od których zaczniesz. Wykorzystujemy je na naszych warsztatachś
 *   [**Aktualności**](/music-dojo/updates/) – Zobacz, jak rośnie społeczność.
 
-{{< list title="Najnowsze aktualności" limit=3 where="Section" value="updates" >}}
+{{< list title="Najnowsze aktualności" limit=3 where="Type" value="updates" >}}

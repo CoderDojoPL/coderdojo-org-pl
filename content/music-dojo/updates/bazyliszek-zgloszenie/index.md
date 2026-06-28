@@ -3,6 +3,7 @@ title: "Music Dojo na festiwalu Bazyliszek!"
 description: "Zgłosiliśmy Music Dojo jako warsztat na warszawski festiwal fantastyki Bazyliszek."
 date: 2026-05-11
 showDate: true
+type: "updates"
 ---
 
 Mamy to! Music Dojo wychodzi do ludzi. Wysłaliśmy zgłoszenie na **Bazyliszka** – warszawski festiwal fantastyki, który odbędzie się w lipcu.

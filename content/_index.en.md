@@ -78,7 +78,7 @@ CoderDojo needs people like you. You don't have to be a programmer or a teacher.
 <img src="img/niceandyellow/girl_1.png" class="grid-w50" alt="CoderDojo girl" />
 {{< /gallery >}}
 
-{{< list title="Learn more" limit=3 where="Section" value="content" >}}
+{{< list title="Latest Updates" limit=3 where="Type" value="updates" >}}
 
 ## {{< icon "globe" >}} Want to open a new Dojo?
 
